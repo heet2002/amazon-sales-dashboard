@@ -28,4 +28,4 @@ https://github.com/heet2002
 
 ## License
 
-This project is provided for educational and demonstration purposes.
+This project is provided for educational and demonstration purposes only it was not done in my professional capacity.
